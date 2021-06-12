@@ -28,3 +28,8 @@ springdoc:
   swagger-ui:
     path: /
     operationsSorter: method
+
+## https://swathisprasad.medium.com/automating-code-with-mapstruct-44b8c324a23e
+## https://medium.com/1developer/spring-requestparam-vs-queryparam-vs-pathvariable-vs-pathparam-7c5655e541ad
+## https://yashodgayashan.medium.com/optional-query-parameters-in-spring-boot-7456cc82d8b9
+## https://www.baeldung.com/spring-requestparam-vs-pathvariable
