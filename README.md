@@ -1,0 +1,1 @@
+# gadgetapp-springboot-mapstruct
